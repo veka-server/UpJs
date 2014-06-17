@@ -11,5 +11,6 @@ Utilisation avancé
 ==================
 A la fin de l'upload j'emet un event javascript qui peut etre capturé.
 
-finUPJS_fail : si echec d'upload
-finUPJS_success : si succé a l'upload
+finUPJS_fail : si echec d'upload.
+
+finUPJS_success : si succé a l'upload.
