@@ -1,3 +1,6 @@
+// debut de la cage
+(function (){
+
 Element.prototype.submitUpload = function ()
 {
 
@@ -160,3 +163,7 @@ if(XMLHttpRequest)
     console.log("votre navigateur est trops vieux pour profiter de toutes les fonctionnalitées du site.")
   }
 }
+
+
+// Fin de la cage
+} )();
